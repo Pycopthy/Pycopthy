@@ -30,4 +30,7 @@ services you agree to says that you agree to not have any supsious applcations s
 did this at frist, to really see if i would like it or not, and overall i ended up likey it. So i dug deeper on how are theses attacks carryed out, how are thy formed, 
 how do they work. Spifically talking about how dose code be modfiyed to exploite computers. Me personnally i was trested to really know. 
 
+The goal of my intesions is mainly based on forming you into your own cyber attacker or commonlly more known term people use commonlly refering to computer hackvist, Hackers is the term im refering to spaficlly.
+
+
 
